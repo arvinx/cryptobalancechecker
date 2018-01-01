@@ -19,5 +19,7 @@ def get_balance():
     for account in accounts:
         if account['currency'] in balances:
             balances[str(account['currency'])] = float(account['balance']) * float(prices[account['currency']])
+        elif account['currency'] == 'USD':
+            balances['USD'] = float(account['balance'])
     return balances
 

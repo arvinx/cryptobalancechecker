@@ -12,7 +12,8 @@ ticker_to_name = {
     'DASH': 'dash',
     'XRP': 'ripple',
     'ADA': 'cardano',
-    'XLM': 'stellar'
+    'XLM': 'stellar',
+    'NEO': 'neo'
 }
 
 

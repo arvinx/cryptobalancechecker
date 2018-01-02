@@ -13,7 +13,8 @@ ticker_to_name = {
     'XRP': 'ripple',
     'ADA': 'cardano',
     'XLM': 'stellar',
-    'NEO': 'neo'
+    'NEO': 'neo',
+    'XRB': 'raiblocks',
 }
 
 

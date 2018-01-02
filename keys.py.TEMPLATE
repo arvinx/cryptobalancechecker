@@ -1,0 +1,12 @@
+USE_GDAX = True
+USE_BINANCE = True
+USE_BITGRAIL = True
+# How much you invested total. This is used to calculate profits.
+INVESTED = 0
+gdax_key = ''
+gdax_b64secret = ''
+gdax_passphrase = ''
+binance_key = ''
+binance_secret = ''
+bitgrail_key = ''
+bitgrail_secret = ''
